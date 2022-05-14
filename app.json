@@ -1,6 +1,6 @@
 {
-  "name": "shadowsocks-websocket-python",
-  "description": "shadowsocks over WebSocket, support Heroku.",
+  "name": "swp",
+  "description": "swptest",
   "env": {
     "METHOD": {
       "description": "encryption method",
